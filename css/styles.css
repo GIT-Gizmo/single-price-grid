@@ -97,7 +97,7 @@ a {
 
 @media (max-width:1360px) {
     a {
-        padding: 1rem;
+        padding: 1rem 2rem;
     }
 }
 
